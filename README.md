@@ -39,15 +39,48 @@ pip install pandas numpy seaborn matplotlib
 
 ## Features
 - Data cleaning and preprocessing
+  - Handling missing values and outliers
+  - Data type conversion and standardization
+  - Feature engineering and transformation
 - Descriptive statistics
-- Correlation analysis
-- Data visualization (histograms, scatter plots, heatmaps, etc.)
-- Insights and summary
+  - Summary statistics for numerical features
+  - Distribution analysis
+  - Correlation analysis between features
+- Advanced data visualization
+  - Interactive plots using Plotly
+  - Geographic visualization of property locations
+  - Time series analysis of price trends
+- Machine Learning Integration
+  - Feature importance analysis
+  - Price prediction models
+  - Market segmentation analysis
 
 ## Results & Visualizations
-The notebook includes various plots and tables that highlight important trends and relationships in the real estate data, such as:
-- Distribution of property prices
-- Correlation between features (e.g., area, bedrooms, price)
-- Outlier detection
-- Market trends over time
+The notebook includes various plots and tables that highlight important trends and relationships in the real estate data:
 
+### Price Analysis
+- Distribution of property prices with box plots and histograms
+- Price trends over time with seasonal decomposition
+- Price correlation with key features (area, location, amenities)
+
+### Property Characteristics
+- Distribution of property types and their average prices
+- Relationship between number of bedrooms/bathrooms and price
+- Impact of property age on market value
+
+### Location Analysis
+- Geographic heat maps showing price distribution
+- Neighborhood-wise price comparison
+- Proximity analysis to key amenities (schools, hospitals, etc.)
+
+### Market Insights
+- Price per square foot analysis
+- Market trend indicators
+- Investment opportunity identification
+- Seasonal patterns in property sales
+
+### Statistical Analysis
+- Correlation heatmaps of numerical features
+- ANOVA tests for categorical variables
+- Regression analysis results
+- Outlier detection and analysis
