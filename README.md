@@ -8,8 +8,7 @@ This project provides an in-depth Exploratory Data Analysis (EDA) of real estate
 - [Usage](#usage)
 - [Features](#features)
 - [Results & Visualizations](#results--visualizations)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 This notebook explores a real estate dataset, performing data cleaning, visualization, and statistical analysis. The EDA helps to understand the key factors affecting real estate prices and trends in the market.
@@ -52,8 +51,3 @@ The notebook includes various plots and tables that highlight important trends a
 - Outlier detection
 - Market trends over time
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements or additional analyses.
-
-## License
-This project is licensed under the MIT License. 
